@@ -1,5 +1,5 @@
 # Formatizer
-video to text based video format converter
+video to text based video format converter for [this](https://scratch.mit.edu/projects/904394551/) project
 
 first comes the metadata:
 ```
